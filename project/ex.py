@@ -3,3 +3,6 @@ num2 = 3
 res = num + num2
 
 print(res)
+
+
+print("HELLO, WORLD")
