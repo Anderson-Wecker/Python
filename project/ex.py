@@ -8,4 +8,4 @@ art = ["new", "nova"]
 
 print("HELLO, WORLD")
 
-print(art)
+#cometario
